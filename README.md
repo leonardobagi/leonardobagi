@@ -1,6 +1,6 @@
 # Hello!
 
-I am a Brazilian JavaScript and NodeJS developer, and I try my best to contribute to some NPM packages out there
+I am a Brazilian JavaScript and NodeJS developer, and I try my best to contribute to some NPM packages and repositories out there
 
 ## Contributions
 
