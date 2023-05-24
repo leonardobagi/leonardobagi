@@ -22,6 +22,5 @@ Just added TS support because yea, that package deserves it.
 ### [timestampConv](https://github.com/Czekin/timestampConv)
 Found this out of nowhere on NPM, and added types (I love adding TS support to things as you may have noticed)
 
-## Next up
-- JSF: Library for Vanilla JS development, the objective is to replace JQuery
-- base-code-generator: Generate some passcodes based on a base
+### [JSF](https://github.com/leonardobagi/jsf)
+A package I made for fun. Its objective is to make web development easier, sort of a JQuery, but better and in TS. I'm always remaking that package as I learn more to make it better for everybody.
